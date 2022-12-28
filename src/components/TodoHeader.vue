@@ -13,6 +13,5 @@ export default {
   h1 {
     font-family: "GmarketSansBold", sans-serif;
     color: #967E76;
-    text-shadow: 3px 2px 1px rgba(255,255,255,1);
   }
 </style>
