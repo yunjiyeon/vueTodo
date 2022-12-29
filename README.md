@@ -1,9 +1,9 @@
 # MINI PROJECT | To Do List 
 > Vue.js 앱 기반 TO DO LIST 개발
 <br>
+
 * 기여도 : 개인 100% <br> 
 * 기간 : 2022.12
-<br>
 
 ## 📍 Overview
 
