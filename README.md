@@ -14,4 +14,3 @@ To do 추가/제거시 **Vue TransitionGroup**을 통해 동적인 리스트 효
 
 ## 🚀 Skills 
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"> 
-<br><br>
